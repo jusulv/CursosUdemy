@@ -25,7 +25,7 @@ class Producto {
             return 'Id del producto: ' + this._idProducto + '\n' +'Nombre del producto: ' + this._nombre +'\n' +
         'Precio: $' + this.precio +' pesos'; 
         }else{
-            return 'Id del producto: ' + this._idProducto + '\n' +'Nombre del producto: ' + this._nombre +'\n' +
+            return 'Id del coso para vender ' + this._idProducto + '\n' +'Nombre del producto: ' + this._nombre +'\n' +
             'Precio: $' + this.precio +' mil';
         }
     } 
