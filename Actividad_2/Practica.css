@@ -1,8 +1,22 @@
 body{
-    background-color: #EF6A2D;
+    background: linear-gradient(#3f2fac, #f8efed);
+}
+h1{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffce58;
+}
+h2{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fdf7c0;
+}
+p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.imagen{
-    max-width: 200px;
-    max-height: 200px;
-}
